@@ -1,4 +1,4 @@
-bullshark
+BullShark
 =========
 
-BullShark lib
+BullShark opensource php fast-deploy library
